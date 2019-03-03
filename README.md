@@ -1,6 +1,9 @@
 # CollectionViewInCollectionViewCell
 This project demonstrates how to implement the collection view &amp; its cells inside the another collection view cell.
 
+### Screenshots
+![alt tag](https://raw.githubusercontent.com/kak2008/CollectionViewInCollectionViewCell/master/CollectionViewInCollectionViewCell/CollectionViewInCollectionViewCell/Result/Screen%20Shot%202019-03-03%20at%201.12.41%20PM.png)
+
 ## Requirements
 * Xcode 10.1
 * Swift 3.0
