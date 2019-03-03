@@ -17,6 +17,9 @@
 		F8A085E0222C206A00153687 /* FirstCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8A085DF222C206A00153687 /* FirstCollectionViewCell.swift */; };
 		F8A085E5222C232800153687 /* SecondCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8A085E3222C232800153687 /* SecondCollectionViewCell.swift */; };
 		F8A085E6222C232800153687 /* SecondCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = F8A085E4222C232800153687 /* SecondCollectionViewCell.xib */; };
+		F8A085F9222C4B4700153687 /* Simulator Screen Shot - iPhone XR - 2019-03-03 at 12.46.56.png in Resources */ = {isa = PBXBuildFile; fileRef = F8A085F7222C4B4700153687 /* Simulator Screen Shot - iPhone XR - 2019-03-03 at 12.46.56.png */; };
+		F8A085FA222C4B4700153687 /* Simulator Screen Shot - iPhone XR - 2019-03-03 at 12.47.07.png in Resources */ = {isa = PBXBuildFile; fileRef = F8A085F8222C4B4700153687 /* Simulator Screen Shot - iPhone XR - 2019-03-03 at 12.47.07.png */; };
+		F8A085FC222C4B5300153687 /* demo.mov in Resources */ = {isa = PBXBuildFile; fileRef = F8A085FB222C4B5300153687 /* demo.mov */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +56,9 @@
 		F8A085DF222C206A00153687 /* FirstCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstCollectionViewCell.swift; sourceTree = "<group>"; };
 		F8A085E3222C232800153687 /* SecondCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondCollectionViewCell.swift; sourceTree = "<group>"; };
 		F8A085E4222C232800153687 /* SecondCollectionViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = SecondCollectionViewCell.xib; sourceTree = "<group>"; };
+		F8A085F7222C4B4700153687 /* Simulator Screen Shot - iPhone XR - 2019-03-03 at 12.46.56.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone XR - 2019-03-03 at 12.46.56.png"; sourceTree = "<group>"; };
+		F8A085F8222C4B4700153687 /* Simulator Screen Shot - iPhone XR - 2019-03-03 at 12.47.07.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone XR - 2019-03-03 at 12.47.07.png"; sourceTree = "<group>"; };
+		F8A085FB222C4B5300153687 /* demo.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = demo.mov; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,6 +114,7 @@
 				F8A085E9222C277200153687 /* ViewControllers */,
 				F8A085E8222C275E00153687 /* Xibs */,
 				F8A085E7222C273F00153687 /* CollectionViewCells */,
+				F8A085F6222C4B2200153687 /* Result */,
 				F8A085BD222C1F2400153687 /* Info.plist */,
 			);
 			path = CollectionViewInCollectionViewCell;
@@ -172,6 +179,16 @@
 				F8A085B1222C1F2300153687 /* AppDelegate.swift */,
 			);
 			path = AppDelegate;
+			sourceTree = "<group>";
+		};
+		F8A085F6222C4B2200153687 /* Result */ = {
+			isa = PBXGroup;
+			children = (
+				F8A085FB222C4B5300153687 /* demo.mov */,
+				F8A085F7222C4B4700153687 /* Simulator Screen Shot - iPhone XR - 2019-03-03 at 12.46.56.png */,
+				F8A085F8222C4B4700153687 /* Simulator Screen Shot - iPhone XR - 2019-03-03 at 12.47.07.png */,
+			);
+			path = Result;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -278,6 +295,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F8A085FA222C4B4700153687 /* Simulator Screen Shot - iPhone XR - 2019-03-03 at 12.47.07.png in Resources */,
+				F8A085FC222C4B5300153687 /* demo.mov in Resources */,
+				F8A085F9222C4B4700153687 /* Simulator Screen Shot - iPhone XR - 2019-03-03 at 12.46.56.png in Resources */,
 				F8A085BC222C1F2400153687 /* LaunchScreen.storyboard in Resources */,
 				F8A085B9222C1F2400153687 /* Assets.xcassets in Resources */,
 				F8A085E6222C232800153687 /* SecondCollectionViewCell.xib in Resources */,
